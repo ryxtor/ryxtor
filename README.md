@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there I'm Lucas 👋
 
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryxtor&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/ryxtor)
+[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryxtor&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/ryxtor) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryxtor&layout=compact&theme=midnight-purple)](https://github.com/ryxtor)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryxtor&layout=compact&theme=midnight-purple)](https://github.com/ryxtor)
+
 
 [![Lucas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryxtor&theme=midnight-purple)](https://github.com/ryxtor)
 <!--
