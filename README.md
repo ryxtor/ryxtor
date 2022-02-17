@@ -1,11 +1,11 @@
-## Hi there I'm Lucas 👋
+## Hi there, I'm Lucas 👋
 
 > ## About me
 
 - 🔭 My interests are: Programming, Technologies, Videogames, Piano, Pop and pop/rock music.
 - 🌱 I'm currently learning web development at Microverse.
 - 📫 How to reach me: lucasbonnefon@outlook.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Space smells like seared steak.
 
 > ## Stats
