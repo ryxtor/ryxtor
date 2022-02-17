@@ -1,17 +1,21 @@
-### Hi there I'm Lucas 👋
+## Hi there I'm Lucas 👋
 
+> ## About me
 
-## Stats
+- 🔭 My interests are: Programming, Technologies, Videogames, Piano, Pop and pop/rock music.
+- 🌱 I'm currently learning web development at Microverse.
+- 📫 How to reach me: lucasbonnefon@outlook.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Space smells like seared steak.
 
-<br>
-<div align="center">
+> ## Stats
 
 [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryxtor&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/ryxtor)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryxtor&layout=compact&theme=midnight-purple)](https://github.com/ryxtor)
-</div>
 
-[![Lucas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryxtor&theme=midnight-purple)](https://github.com/ryxtor)
+
+
 <!--
 **ryxtor/ryxtor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
