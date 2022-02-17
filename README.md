@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryxtor&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/ryxtor)
+[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryxtor&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/ryxtor)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryxtor)](https://github.com/ryxtor)
 <!--
 **ryxtor/ryxtor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
