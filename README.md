@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryxtor&layout=compact&theme=midnight-purple)](https://github.com/ryxtor)
 
-[![Lucas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryxtor)](https://github.com/ryxtor)
+[![Lucas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryxtor&theme=midnight-purple)](https://github.com/ryxtor)
 <!--
 **ryxtor/ryxtor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
