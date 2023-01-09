@@ -3,7 +3,7 @@
 > ## About me
 
 - 🔭 My interests are: Programming, Technologies, Videogames, Piano, Pop and pop/rock music.
-- 🌱 I'm currently learning web development at Microverse.
+- 🌱 I'm currently working as a Full-Stack web developer at Enia.
 - 📫 How to reach me: lucasbonnefon@outlook.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Space smells like seared steak.
