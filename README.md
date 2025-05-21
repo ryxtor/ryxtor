@@ -3,7 +3,7 @@
 > ## About me
 
 - 🔭 My interests are: Programming, Technologies, Videogames, Piano, Pop and pop/rock music.
-- 🌱 I'm currently working as a Full-Stack web developer at Stayfi.
+- 🌱 I'm currently working as a Software Developer at StayFi.
 - 📫 How to reach me: lucasbonnefon@outlook.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Space smells like seared steak.
